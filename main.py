@@ -53,7 +53,7 @@ def get_projects():
             "title": "Rainbow Vista Art Inc. Entertainment Company Website",
             "description": "• UI/UX Design: Crafted modern, mobile-first layouts using React components and Bootstrap for responsiveness.\n• Component Architecture: Built reusable components for forms, event displays, and dynamic data handling.\n• API Integration: Integrated with a backend using Axios for data fetching and real-time updates.\n• Deployment: Deployed the frontend using AWS Amplify, with automatic builds and continuous deployment via GitHub integration.\n• Performance Optimization: Implemented lazy-loading, code-splitting, and optimized loading times for a smooth user experience.",
             "tags": ["React", "JavaScript", "Bootstrap", "AWS Amplify"],
-            "image": "http://127.0.0.1:8000/static/project2.png"
+            "image": "https://api.aryandesai34.com/static/project2.png"
         },
 
 
@@ -61,7 +61,7 @@ def get_projects():
             "title": "Virtual Reaility Reminiscene therapy",
             "description": "A VR application for reminiscence therapy. Made in Unity and ",
             "tags": ["VR", "Unity", "PHP", "MySQL", "WebGL"],
-            "image": "http://127.0.0.1:8000/static/project1.png"
+            "image": "https://api.aryandesai34.com/static/project1.png"
         },
         {
             "title": "ChatGPT integrated Chatbot Jarvis",
