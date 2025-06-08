@@ -24,7 +24,10 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 # Allow requests from the frontend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=[
+        "https://main.d1p3j54qjn3fm1.amplifyapp.com",
+        "https://www.aryandesai34.com"
+        ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
